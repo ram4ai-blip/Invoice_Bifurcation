@@ -2,7 +2,7 @@
 Automated invoice classification using App Script
 
 # Invoice Bifurcation Script — v3.2
-**Company:** Truestate (truestate.in)  
+**Company:** TruEstate (truestate.in)  
 **Platform**:Google Apps Script  
 **Last Updated:** May 2026
 
@@ -109,7 +109,7 @@ My Drive/
 |-----|---------|-------------|
 | `OPENROUTER_API_KEY` | _(empty)_ | Your OpenRouter API key |
 | `OPENROUTER_MODEL` | `google/gemini-3.1-flash-lite` | Model used for classification |
-| `ALERT_EMAIL` | `ramprabhu4ai@gmail.com` | Where alerts and summaries are sent |
+| `ALERT_EMAIL` | `_(empty)_` | Where alerts and summaries are sent |
 | `CONFIDENCE_THRESHOLD` | `75` | Below this % → alert + orange row |
 | `PDF_BATCH_SIZE` | `3` | PDFs processed per manual run |
 | `API_DELAY_MS` | `2000` | Delay between runs (ms) |
