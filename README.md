@@ -166,3 +166,9 @@ Emails are skipped (not classified) if:
 - **Email body** contains: `form gstr-1`, `account statement`, `bank statement`, `salary slip`, `closing balance`, etc.
 
 Ignored PDFs are still uploaded to the **Ignored Documents** folder for audit.
+
+---
+
+## **Author**
+
+Ramakrishna Prabhu
