@@ -3,7 +3,7 @@ Automated invoice classification using App Script
 
 # Invoice Bifurcation Script — v3.2
 **Company:** TruEstate (truestate.in)  
-**Platform**:Google Apps Script  
+**Platform**: Google Apps Script  
 **Last Updated:** May 2026
 
 ---
